@@ -1,0 +1,8 @@
+.swp
+.pyc
+^.Python
+^.tox/
+^bin/
+^include/
+^lib/
+^src/.*egg-info/
